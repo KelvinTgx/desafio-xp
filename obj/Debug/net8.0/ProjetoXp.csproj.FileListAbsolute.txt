@@ -1,0 +1,28 @@
+C:\Users\Kelvi\OneDrive\Área de Trabalho\ProjetoXp\bin\Debug\net8.0\ProjetoXp.exe
+C:\Users\Kelvi\OneDrive\Área de Trabalho\ProjetoXp\bin\Debug\net8.0\ProjetoXp.deps.json
+C:\Users\Kelvi\OneDrive\Área de Trabalho\ProjetoXp\bin\Debug\net8.0\ProjetoXp.runtimeconfig.json
+C:\Users\Kelvi\OneDrive\Área de Trabalho\ProjetoXp\bin\Debug\net8.0\ProjetoXp.dll
+C:\Users\Kelvi\OneDrive\Área de Trabalho\ProjetoXp\bin\Debug\net8.0\ProjetoXp.pdb
+C:\Users\Kelvi\OneDrive\Área de Trabalho\ProjetoXp\obj\Debug\net8.0\ProjetoXp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvi\OneDrive\Área de Trabalho\ProjetoXp\obj\Debug\net8.0\ProjetoXp.AssemblyInfoInputs.cache
+C:\Users\Kelvi\OneDrive\Área de Trabalho\ProjetoXp\obj\Debug\net8.0\ProjetoXp.AssemblyInfo.cs
+C:\Users\Kelvi\OneDrive\Área de Trabalho\ProjetoXp\obj\Debug\net8.0\ProjetoXp.csproj.CoreCompileInputs.cache
+C:\Users\Kelvi\OneDrive\Área de Trabalho\ProjetoXp\obj\Debug\net8.0\ProjetoXp.dll
+C:\Users\Kelvi\OneDrive\Área de Trabalho\ProjetoXp\obj\Debug\net8.0\refint\ProjetoXp.dll
+C:\Users\Kelvi\OneDrive\Área de Trabalho\ProjetoXp\obj\Debug\net8.0\ProjetoXp.pdb
+C:\Users\Kelvi\OneDrive\Área de Trabalho\ProjetoXp\obj\Debug\net8.0\ProjetoXp.genruntimeconfig.cache
+C:\Users\Kelvi\OneDrive\Área de Trabalho\ProjetoXp\obj\Debug\net8.0\ref\ProjetoXp.dll
+C:\Users\Kelvi\Desktop\ProjetoXp\bin\Debug\net8.0\ProjetoXp.exe
+C:\Users\Kelvi\Desktop\ProjetoXp\bin\Debug\net8.0\ProjetoXp.deps.json
+C:\Users\Kelvi\Desktop\ProjetoXp\bin\Debug\net8.0\ProjetoXp.runtimeconfig.json
+C:\Users\Kelvi\Desktop\ProjetoXp\bin\Debug\net8.0\ProjetoXp.dll
+C:\Users\Kelvi\Desktop\ProjetoXp\bin\Debug\net8.0\ProjetoXp.pdb
+C:\Users\Kelvi\Desktop\ProjetoXp\obj\Debug\net8.0\ProjetoXp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvi\Desktop\ProjetoXp\obj\Debug\net8.0\ProjetoXp.AssemblyInfoInputs.cache
+C:\Users\Kelvi\Desktop\ProjetoXp\obj\Debug\net8.0\ProjetoXp.AssemblyInfo.cs
+C:\Users\Kelvi\Desktop\ProjetoXp\obj\Debug\net8.0\ProjetoXp.csproj.CoreCompileInputs.cache
+C:\Users\Kelvi\Desktop\ProjetoXp\obj\Debug\net8.0\ProjetoXp.dll
+C:\Users\Kelvi\Desktop\ProjetoXp\obj\Debug\net8.0\refint\ProjetoXp.dll
+C:\Users\Kelvi\Desktop\ProjetoXp\obj\Debug\net8.0\ProjetoXp.pdb
+C:\Users\Kelvi\Desktop\ProjetoXp\obj\Debug\net8.0\ProjetoXp.genruntimeconfig.cache
+C:\Users\Kelvi\Desktop\ProjetoXp\obj\Debug\net8.0\ref\ProjetoXp.dll
